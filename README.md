@@ -7,14 +7,14 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Sungho+Yoon;Research+on+deep+learning" alt="Typing SVG" /></a>
 <!-- My CV/resume -->
 
-<div align="left">
+<div align="center">
     안녕하세요! 🤗 제 이름은 윤성호 입니다.<br>
     많이 부족하지만 IT창업을 꿈꾸며<br>
     항상 자기발전을 위해 공부하고 있습니다.<br>
 </div>
 <br><br>
 
-<summary>About Me</summary>
+About Me
 
 <div align="left">  
 
