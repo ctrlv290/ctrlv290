@@ -42,7 +42,7 @@ About Me
     <img src="https://img.shields.io/badge/ JavaScript-white?style=plastic&logo=JavaScript&logoColor=black"/>
 </span>
 <span>
-    <img src="https://img.shields.io/badge/ LaTeX-black?style=plastic&logo=LaTeX&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ Php-blue?style=plastic&logo=PHP&logoColor=white"/>
 </span>
 
 </div>
