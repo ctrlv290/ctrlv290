@@ -14,7 +14,6 @@
 </div>
 <br><br>
 
-<details>
 <summary>About Me</summary>
 
 <div align="left">  
@@ -49,7 +48,6 @@
 </div>
 </div>
 
-</details>
 <br><br>
 <div align="center">
 <!-- My profile -->
