@@ -18,13 +18,13 @@
 
 ## ADDITIONAL SKILLS
 <span>
+    <img src="https://img.shields.io/badge/ Node.js-green?style=plastic&logo=node.js&logoColor=white"/>
+</span>
+<span>
     <img src="https://img.shields.io/badge/ Unity-white?style=plastic&logo=unity&logoColor=white"/>
 </span>
 <span>
     <img src="https://img.shields.io/badge/ Php-blue?style=plastic&logo=PHP&logoColor=white"/>
-</span>
-<span>
-    <img src="https://img.shields.io/badge/ Node.js-green?style=plastic&logo=node.js&logoColor=white"/>
 </span>
 <span>
     <img src="https://img.shields.io/badge/ Python-informational?style=plastic&logo=Python&logoColor=white"/>
