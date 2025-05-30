@@ -5,7 +5,7 @@
   <br><br>
 
   <!-- Title Typing Effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=WDXL+Lubrifont+TC&size=35&pause=1000&width=435&lines=Hello.+I'm+Sungho+Yoon" alt="Typing SVG" /></a>
+  <img src="https://readme-typing-svg.demolab.com?font=WDXL+Lubrifont+TC&size=35&pause=1000&center=true&vCenter=true&width=435&lines=Hello.+I'm+Sungho+Yoon" alt="Typing SVG" />
 
   <br>
   <div>
