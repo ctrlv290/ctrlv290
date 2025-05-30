@@ -58,6 +58,6 @@
 
 <div align="center">
   <!-- Footer banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=footer&text=&fontSize=0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=40&section=footer&text=&fontSize=0" width="100%" />
 </div>
 
