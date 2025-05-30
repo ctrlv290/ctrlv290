@@ -5,7 +5,7 @@
   <br><br>
 
   <!-- Title Typing Effect -->
-  <img src="https://readme-typing-svg.demolab.com?font=WDXL+Lubrifont&color=58A6FF&size=35&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello%2C+I'm+Sungho+Yoon;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=WDXL+Lubrifont+TC&size=35&pause=1000&width=435&lines=Hello.+I'm+Sungho+Yoon" alt="Typing SVG" /></a>
 
   <br>
   <div>
@@ -58,6 +58,6 @@
 
 <div align="center">
   <!-- Footer banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:gradient&height=40&section=footer&text=&fontSize=0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=40&section=footer&text=&fontSize=0" width="100%" />
 </div>
 
